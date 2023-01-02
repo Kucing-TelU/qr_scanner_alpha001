@@ -14,8 +14,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  qr_code_scanner:
-    path: ../
+  qr_code_scanner: ^1.0.0
+    # path: ../
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
